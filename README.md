@@ -1,1 +1,1 @@
-# image-gallery-flexbox-css3
+# Image Gallery responsive with Flexbox CSS.
