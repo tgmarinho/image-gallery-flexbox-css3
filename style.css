@@ -15,13 +15,17 @@ h1 {
   border-right: 2px solid pink;
   width: 400px;
   text-align: center;
+  -moz-box-shadow: 4px 4px 5px #888888;
+  -ms-box-shadow: 4px 4px 5px #888888;
+  -webkit-box-shadow: 4px 4px 5px #888888;
+  -o-box-shadow: 4px 4px 5px #888888;
   box-shadow: 4px 4px 5px #888888;
   margin-top: 10px;
 }
 
 img {
-  width: 450px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   margin: 10px;
   transition: all 1s;
 }
