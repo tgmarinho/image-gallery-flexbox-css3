@@ -2,4 +2,6 @@
 
 ## Training CSS with Flexbox from The Complete Web Developer in 2018
 
-@tgmarinho
+[Check it out](https://tgmarinho.github.io/image-gallery-flexbox-css3/)
+
+[@tgmarinho](https://twitter.com/tgmarinho)
